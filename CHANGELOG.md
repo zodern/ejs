@@ -1,3 +1,7 @@
+## v2.7.5: 2022-06027
+
+* Backport security fixes from 3.1.7
+
 ## v2.7.1: 2019-09-02
   * Added deprecation notice for use of require.extensions (@mde)
 
